@@ -12597,7 +12597,7 @@ function id() {
 var di = id();
 const yd =
     "data:image/svg+xml,%3csvg%20width='24'%20height='24'%20viewBox='0%200%2024%2024'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20d='M20%204H4C2.9%204%202.01%204.9%202.01%206L2%2018C2%2019.1%202.9%2020%204%2020H20C21.1%2020%2022%2019.1%2022%2018V6C22%204.9%2021.1%204%2020%204ZM20%208L12%2013L4%208V6L12%2011L20%206V8Z'%20fill='%23205683'/%3e%3c/svg%3e",
-  vd = "/splash-page/assets/logo-D5ZgtQs7.png";
+  vd = "/assets/logo-D5ZgtQs7.png";
 function sd() {
   const r = di.c(1);
   let R;
