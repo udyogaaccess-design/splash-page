@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --color-udyoga-blue: #205683;
+  --color-udyoga-green: #7bbb41;
+  --color-udyoga-yellow: #f3d977;
+  --color-udyoga-accent: #aa767d;
+  --color-udyoga-blue-100: #e9eef3;
+
+  --text-udyoga-blue: #205683;
+  --text-udyoga-green: #7bbb41;
+  --text-udyoga-yellow: #f3d977;
+  --text-udyoga-accent: #aa767d;
+
+  --font-poppins-sans: "Poppins", "Poppins Fallback";
+  --font-inter: "Inter", "Inter Fallback";
+}
+
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(#ffffff, #e6edf3);
+}
+
+.footer {
+  /* background-image: url("/assets/images/backgrounds/wave.svg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: var(--text-udyoga-blue);
+  padding-block: 3rem;
+}
